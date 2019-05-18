@@ -26,7 +26,7 @@ export class Home extends React.Component {
 						/>
 
 						<Carousel.Caption>
-							<h3>All the major fast food chains included</h3>
+							<h3>All the major fast food chains include</h3>
 						</Carousel.Caption>
 					</Carousel.Item>
 					<Carousel.Item>
